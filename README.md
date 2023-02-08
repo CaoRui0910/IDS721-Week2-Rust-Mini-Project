@@ -2,7 +2,7 @@
 ## Description
 This project is to judge whether a triangle is a right triangle according to the length of the three sides of the triangle.
 
-##Usage
+## Usage
 - User can type in `cargo run -- subcommand -- commandLineArg1 commandLineArg2 commandLineArg3` in command line. The three command line arguments are the lengths of the three sides of the triangle, and they are arranged in ascending order.
 - Here is an example:
     ```
