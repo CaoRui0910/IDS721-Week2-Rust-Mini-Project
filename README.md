@@ -1,4 +1,4 @@
-# rust-new-project-template
+# Rust CLI: determine right triangle
 ## Description
 This project is to judge whether a triangle is a right triangle according to the length of the three sides of the triangle.
 
